@@ -2,7 +2,7 @@
 /dist
 /node_modules
 
-# environtments confid
+# environtments config
 .env
 
 # Logs
